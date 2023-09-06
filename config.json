@@ -1,0 +1,17 @@
+{
+    "rules": [
+      {
+        "sku": "buds",
+        "type": "discount",
+        "quantityRequired": 3,
+        "discountedQuantity": 2
+      },
+      {
+        "sku": "op11",
+        "type": "bulkDiscount",
+        "minQuantity": 4,
+        "discountedPrice": 899.99
+      }
+    ]
+  }
+  
